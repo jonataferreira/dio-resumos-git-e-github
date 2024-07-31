@@ -10,5 +10,14 @@ Repositório para armazenar resumos sobre Git e GitHub do curso de Verssionament
 ## 💻 Resumo das Aulas ___
 
 | Aulas | Resumos |
-| ----- | ------- |
+| ----- | ------------ |
+| Gravando Alterações no Repositório Local | [resumo]() |
+| Gravando Alterações no Repositório Local | [resumo]() |
 
+´´´
+git init
+´´´
+
+## 🔍 Referencias
+ - [Digital Innovation One]().
+ 
